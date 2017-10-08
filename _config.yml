@@ -2,14 +2,14 @@
 # 需要修改的内容已经用中文标注出来了
 
 # Site
-title: 站点标题
+title: skphetz
 subtitle:
 description:
-author: 站点作者
+author: skphetz
 language: zh-Hans
 timezone:
 
-url: https://站点域名
+url: https://https://skphetz.github.io/
 root: /
 permalink: :title/
 permalink_defaults:
