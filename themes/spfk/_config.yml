@@ -66,7 +66,7 @@ duoshuo:
 gitment:
   on: true
   owner: skphetz
-  repo: skphetz.netlify.com/
+  repo: skphetz.github.io
   client_id: a8be822a6c1441092909
   client_secret: 4a7005acc3a016c369154490b432e80c2d0f9915
 
