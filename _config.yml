@@ -9,7 +9,7 @@ author: skphetz
 language: zh-Hans
 timezone:
 
-url: https://skphetz.github.io/
+url: https://skphetz.netlify.com/
 root: /
 permalink: :title/
 permalink_defaults:
