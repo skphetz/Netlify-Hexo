@@ -1,7 +1,7 @@
 ---
 title: GCD&LCM解题报告
 date: 2017-09-11 20:21:27
-tags: [algorithm,数论]
+tags: [algorithm,数论,解题报告]
 ---
 # 题面
 
