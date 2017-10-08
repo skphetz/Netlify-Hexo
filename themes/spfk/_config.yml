@@ -6,11 +6,11 @@
 menu:
   algorithm: /tags/algorithm
   随笔: /tags/nothing
-  更新日志: /tags/更新日志
+#  更新日志: /tags/更新日志
   文章总目录: /archives
-  留言板: /about
-  PICTURES: /pictures
-  我喜欢的歌: /songs
+#  留言板: /about
+#  PICTURES: /pictures
+#  我喜欢的歌: /songs
 # 静心阅读: /tags
 # 光影之路: /instagram
 # 随笔: /tags/随笔
